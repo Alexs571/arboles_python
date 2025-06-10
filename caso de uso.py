@@ -11,7 +11,8 @@ class Nodo:
 # Función para buscar una persona en el árbol y devolver su nodo
 # Realiza una búsqueda en profundidad (DFS)
 def buscar_nodo(raiz, nombre):
-    if raiz.nombre.lower() == nombre.lower():
+   # """CONVERTIMOS EL NOM RAIZ A MINUSCULA Y COMPARAMOS CON EL NOM INGRESADO EN MINUSCULAS"""
+    if raiz.nombre.lower() == nombre.lower(): 
         return raiz
     for hijo in raiz.hijos:
         resultado = buscar_nodo(hijo, nombre)
