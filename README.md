@@ -1,4 +1,4 @@
-Enlace a Youtube : https://www.youtube.com/watch?v=wj_eVhKD2sM
+Enlace a Youtube : https://www.youtube.com/watch?v=wj_eVhKD2sM](https://youtu.be/2mcV0GgSo7Q
 
 
 # Implementación de un Árbol Genealógico en Python
