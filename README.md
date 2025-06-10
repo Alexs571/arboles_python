@@ -129,10 +129,14 @@ Se realizaron pruebas para:
 
 ## 8. Anexos
 
-- Capturas del programa funcionando:
-  - Descendencia completa.
-  - Niveles intermedios.
-  - Pruebas con mayúsculas y minúsculas.
-  - Búsquedas de personas inexistentes.
+- Capturas del programa funcionando ( Validación de funcionamiento item 3)
+  - Comprobar que se imprime toda la descendencia:
+  ![](imagenes/tp1.PNG)
+  - Buscar a personas en niveles intermedios:
+  ![](imagenes/tp2.PNG)
+  - Verificar búsquedas con diferentes combinaciones de mayúsculas y minúsculas:
+  ![](imagenes/tp4.PNG)
+  - Intentar búsquedas de personas que no existen en el árbol:
+  ![](imagenes/tp5.PNG)
 
 ---
